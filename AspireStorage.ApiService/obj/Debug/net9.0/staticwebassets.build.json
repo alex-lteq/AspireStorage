@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "w6DRKDPn1+2o6w1Vos7i+m1j1pmnLjEyQr/HvEfrZRk=",
+  "Source": "AspireStorage.ApiService",
+  "BasePath": "_content/AspireStorage.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
