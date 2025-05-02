@@ -17,15 +17,15 @@ using System.Reflection;
     "xt\\"))]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", ("C:\\Users\\AlexA\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.2.1\\tools\\e" +
     "xt\\bin\\"))]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "c:\\Users\\AlexA\\AspireStorage\\AspireStorage.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\AlexA\\AspireStorage\\AspireStorage.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "AspireStorage.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", ("C:\\Users\\AlexA\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.2.1\\tools\\Aspire.Da" +
     "shboard.exe"))]
-[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "c:\\Users\\AlexA\\AspireStorage\\AspireStorage.AppHost\\obj\\")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\AlexA\\AspireStorage\\AspireStorage.AppHost\\obj\\")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspireStorage.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4a3ac1471171d01558295c061833ab084dee121")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspireStorage.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspireStorage.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

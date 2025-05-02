@@ -8,5 +8,5 @@ namespace Projects;
 public class AspireStorage_AppHost
 {
     private AspireStorage_AppHost() { }
-    public static string ProjectPath => """c:\Users\AlexA\AspireStorage\AspireStorage.AppHost""";
+    public static string ProjectPath => """C:\Users\AlexA\AspireStorage\AspireStorage.AppHost""";
 }
