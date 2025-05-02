@@ -60,3 +60,4 @@ C:\Users\AlexA\AspireStorage\AspireStorage.ApiService\obj\Debug\net9.0\refint\As
 C:\Users\AlexA\AspireStorage\AspireStorage.ApiService\obj\Debug\net9.0\AspireStorage.ApiService.pdb
 C:\Users\AlexA\AspireStorage\AspireStorage.ApiService\obj\Debug\net9.0\AspireStorage.ApiService.genruntimeconfig.cache
 C:\Users\AlexA\AspireStorage\AspireStorage.ApiService\obj\Debug\net9.0\ref\AspireStorage.ApiService.dll
+C:\Users\AlexA\AspireStorage\AspireStorage.ApiService\obj\Debug\net9.0\AspireStorage.ApiService.sourcelink.json

@@ -10,3 +10,4 @@ C:\Users\AlexA\AspireStorage\AspireStorage.ServiceDefaults\obj\Debug\net9.0\Aspi
 C:\Users\AlexA\AspireStorage\AspireStorage.ServiceDefaults\obj\Debug\net9.0\refint\AspireStorage.ServiceDefaults.dll
 C:\Users\AlexA\AspireStorage\AspireStorage.ServiceDefaults\obj\Debug\net9.0\AspireStorage.ServiceDefaults.pdb
 C:\Users\AlexA\AspireStorage\AspireStorage.ServiceDefaults\obj\Debug\net9.0\ref\AspireStorage.ServiceDefaults.dll
+C:\Users\AlexA\AspireStorage\AspireStorage.ServiceDefaults\obj\Debug\net9.0\AspireStorage.ServiceDefaults.sourcelink.json

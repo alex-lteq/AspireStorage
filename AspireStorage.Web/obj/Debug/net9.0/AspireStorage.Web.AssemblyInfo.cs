@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspireStorage.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4a3ac1471171d01558295c061833ab084dee121")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb3a76eab45658b9051ee5cf49e609ca8ae0141c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspireStorage.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspireStorage.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
